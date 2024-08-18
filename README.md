@@ -18,8 +18,9 @@ HTML (index.html):
 </body>
 </html>
 ```
+
 CSS (styles.css):
-```
+```CSS
 body {
     font-family: Arial, sans-serif;
 }
